@@ -4,6 +4,8 @@ This is a pure CSS/HTML toggle switch (or toggle button, or toggle bar - whateve
 
 I was looking for a toggle switch and found a pre-flexbox CSS/HTML template for one, plus a few with JS - I was trying to put this into a React app so I didn't want to start adding vanilla JS, and making any tweaks to the pre-flexbox CSS messed with what I already had for the site. So I made my own!
 
+![example toggles](https://github/kateapault/flexbox-toggle-switch/asses/Example.png)
+
 # Simple Round Toggle
 <br>
 <b>HTML</b>

@@ -73,7 +73,6 @@ input:checked + .toggle > .slider {
     background-color: grey;
     width: 60px;
     height: 32px;
-    border-radius: 16px;
     display: flex;
     flex-direction: column;
   }
@@ -86,7 +85,6 @@ input {
   height: 24px;
   width: 24px;
   background-color: white;
-  border-radius: 12px;
   margin: 4px;
 }
 

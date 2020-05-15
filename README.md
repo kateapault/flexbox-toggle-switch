@@ -54,7 +54,7 @@ input:checked + .toggle > .slider {
 ```
 
 # Simple Square Toggle
-<i>Basically the same, just without the border-radius attribute in CSS. It's written here for copy/past convenience though:</i>
+<i>Basically the same, just without the border-radius attribute in CSS. It's written here for copy/paste convenience though:</i>
 <br>
 <br>
 <b>HTML</b>
